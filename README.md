@@ -1,96 +1,67 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullah-fahad.abdullah-fahad">
+## مرحباً 👋، أنا عبدالله فهد!
+<a href='https://www.linkedin.com/in/your_linkedin_profile/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/your_twitter_profile/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://github.com/abdullah-fahad/'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلاً+وسهلاً!+👋;أنا+عبدالله+فهد....;سعيد+بلقائك!&center=true&size=30">
-  </a>
-</h1>
+أنا مطور ويب متكامل 🌐، أستمتع ببناء تطبيقات الويب من الألف إلى الياء، وأتكيف بسهولة مع التقنيات المختلفة سواء في الواجهة الأمامية أو الخلفية أو حتى جوانب الـ DevOps. أحب استكشاف أحدث التقنيات 💻 واستغلالها لإنشاء حلول مبتكرة ومشاريع مميزة 🛠️.
+<br/>
+<br/>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/your_linkedin_profile/" title="حسابي على LinkedIn"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/your_hackerrank_profile" title="حسابي على HackerRank"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/your_stackoverflow_profile/abdullah-fahad" title="حسابي على Stack Overflow"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/your_instagram_profile/" title="حسابي على Instagram"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 المزيد عني:
+
+- 🔭 &nbsp; أعمل حاليًا على مشاريع تطوير ويب متكاملة.
+- 🤝 &nbsp; أبحث عن فرص للتعاون في مشاريع ويب مفتوحة المصدر.
+- 🌱 &nbsp; أتعلم حاليًا أحدث التقنيات في مجال الـ DevOps.
+- 👨🏻‍💻 &nbsp; معظم مشاريعي متاحة على [Github](https://github.com/abdullah-fahad?tab=repositories)
+- 💬 &nbsp; اسألني عن أي شيء يتعلق بالتقنية، يسعدني المساعدة؛
+- 📫 &nbsp; لا تتردد في التواصل معي على [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile/)
+- 📝 &nbsp; اطلع على [سيرتي الذاتية](https://drive.google.com/file/d/your_resume_link/view?usp=sharing) (يرجى استبدال هذا الرابط برابط سيرتك الذاتية)
+- 📚 &nbsp; عندما أكون متفرغًا، أحب القراءة واستكشاف أفكار جديدة في مجال التقنية.
+
 <br>
-<p align="center">
-  مرحباً، أنا عبدالله فهد، مطور ويب متكامل متواجد حاليا في المملكة العربية السعودية 🇸🇦
-  <br>
-  <br>
-  💻 أحب بناء وتطوير تطبيقات الويب من البداية وحتى النهاية.
-  <br>
-  📚 أركز حالياً على تعميق معرفتي في أحدث تقنيات الـ Backend و DevOps. و Frontend 
-  <br>
-  💡 مهتم جداً بإنشاء حلول مبتكرة وفعالة للمشاكل المعقدة.
-  <br>
-  💬 إذا كان لديك أي استفسار، لا تتردد في سؤالي <a href="https://github.com/abdullah-fahad/abdullah-fahad/issues" title="المشاكل">هنا</a>
-  <br>
-  📫 كيف تتواصل معي: <a href="mailto: your_email@example.com">your_email@example.com</a>
-</p>
 
-<hr>
-<h2 align="center">🔥 اللغات & الأطر & الأدوات & المهارات 🔥</h2>
+### 🔨 اللغات والأدوات:
+<a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img align="left" alt="Flask" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
+<a href="https://react.dev/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" align="left" alt="Git" height='42px'/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" align="left" alt="GitHub" height='42px'/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" align="left" alt="MySQL" height='42px'/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" align="left" alt="PostgreSQL" height='42px'/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" align="left" alt="MongoDB" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" align="left" alt="Kubernetes" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" align="left" alt="AWS" height='42px'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" align="left" alt="VSCode" height='42px'/> </a>
+
 <br>
-<p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.svg"></code> <code><img title="Node.js" height="25" src="images/nodejs.svg"></code> <code><img title="Express.js" height="25" src="images/express.svg"></code> <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Angular" height="25" src="images/angularjs.png"></code> <code><img title="Vue.js" height="25" src="images/vuejs.svg"></code> <code><img title="SQL" height="25" src="images/mysql.svg"></code> <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code> <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code> <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code> <code><img title="AWS" height="25" src="images/aws.svg"></code> <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-</p>
-<hr>
 
-<h2 align="center">⚡ إحصائيات ⚡</h2>
+
+### 📊 إحصائيات GitHub
+<a href='https://github.com/abdullah-fahad/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/abdullah-fahad/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/abdullah-fahad/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="المصدر">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=abdullah-fahad&theme=react&border=61dafb&hide_border=true" alt="عبدالله فهد" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="المصدر">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=abdullah-fahad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-fahad&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-fahad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 مستودعاتي 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/abdullah-fahad/your-repo-name-1" title="اسم المستودع الأول"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-1&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/abdullah-fahad/your-repo-name-2" title="اسم المستودع الثاني"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-2&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/abdullah-fahad/your-repo-name-3" title="اسم المستودع الثالث"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-3&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abdullah-fahad/your-repo-name-4" title="اسم المستودع الرابع"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-4&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/abdullah-fahad/your-repo-name-5" title="اسم المستودع الخامس"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-5&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abdullah-fahad/your-repo-name-6" title="اسم المستودع السادس"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-fahad&repo=your-repo-name-6&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/abdullah-fahad?tab=repositories" title="عرض المزيد من المستودعات">🔎 عرض المزيد 🔍</a>
-</h4>
+### 🛠️ مشاريعي
+<a href="https://github.com/abdullah-fahad/your-project-1" target="_blank"> <img alt="اسم المشروع 1" src="https://via.placeholder.com/200x68.png?text=Project+1" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-2" target="_blank"> <img alt="اسم المشروع 2" src="https://via.placeholder.com/200x68.png?text=Project+2" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-3" target="_blank"> <img alt="اسم المشروع 3" src="https://via.placeholder.com/200x68.png?text=Project+3" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-4" target="_blank"> <img alt="اسم المشروع 4" src="https://via.placeholder.com/200x68.png?text=Project+4" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-5" target="_blank"> <img alt="اسم المشروع 5" src="https://via.placeholder.com/200x68.png?text=Project+5" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-6" target="_blank"> <img alt="اسم المشروع 6" src="https://via.placeholder.com/200x68.png?text=Project+6" height="68" align="left"> </a>
