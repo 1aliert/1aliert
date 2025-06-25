@@ -1,28 +1,28 @@
-## مرحباً 👋، أنا عبدالله فهد!
+## Hey 👋, I'm Abdullah Fahad!
 <a href='https://www.linkedin.com/in/your_linkedin_profile/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/your_twitter_profile/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://github.com/abdullah-fahad/'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
-أنا مطور ويب متكامل 🌐، أستمتع ببناء تطبيقات الويب من الألف إلى الياء، وأتكيف بسهولة مع التقنيات المختلفة سواء في الواجهة الأمامية أو الخلفية أو حتى جوانب الـ DevOps. أحب استكشاف أحدث التقنيات 💻 واستغلالها لإنشاء حلول مبتكرة ومشاريع مميزة 🛠️.
+I am a Full-Stack Web Developer 🌐, passionate about building web applications from scratch. I easily adapt to various technologies across frontend, backend, and even DevOps aspects. I love exploring new tech stacks 💻 and leveraging them to create innovative solutions and cool projects 🛠️.
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 المزيد عني:
+### 🧐 More About Me:
 
-- 🔭 &nbsp; أعمل حاليًا على مشاريع تطوير ويب متكاملة.
-- 🤝 &nbsp; أبحث عن فرص للتعاون في مشاريع ويب مفتوحة المصدر.
-- 🌱 &nbsp; أتعلم حاليًا أحدث التقنيات في مجال الـ DevOps.
-- 👨🏻‍💻 &nbsp; معظم مشاريعي متاحة على [Github](https://github.com/abdullah-fahad?tab=repositories)
-- 💬 &nbsp; اسألني عن أي شيء يتعلق بالتقنية، يسعدني المساعدة؛
-- 📫 &nbsp; لا تتردد في التواصل معي على [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile/)
-- 📝 &nbsp; اطلع على [سيرتي الذاتية](https://drive.google.com/file/d/your_resume_link/view?usp=sharing) (يرجى استبدال هذا الرابط برابط سيرتك الذاتية)
-- 📚 &nbsp; عندما أكون متفرغًا، أحب القراءة واستكشاف أفكار جديدة في مجال التقنية.
+- 🔭 &nbsp; I'm currently working on comprehensive full-stack web development projects.
+- 🤝 &nbsp; I'm looking to collaborate on open-source web projects.
+- 🌱 &nbsp; I'm currently deepening my knowledge in the latest DevOps technologies.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abdullah-fahad?tab=repositories)
+- 💬 &nbsp; Ask me anything tech-related, I'm happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/your_resume_link/view?usp=sharing) (Please replace this link with your actual resume link)
+- 📚 &nbsp; When I'm free, I enjoy reading and exploring new ideas in technology.
 
 <br>
 
-### 🔨 اللغات والأدوات:
+### 🔨 Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
@@ -48,7 +48,7 @@
 <br>
 
 
-### 📊 إحصائيات GitHub
+### 📊 GitHub Stats
 <a href='https://github.com/abdullah-fahad/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/abdullah-fahad/github-stats-transparent/output/generated/overview.svg)
@@ -58,10 +58,10 @@
 
 <br>
 
-### 🛠️ مشاريعي
-<a href="https://github.com/abdullah-fahad/your-project-1" target="_blank"> <img alt="اسم المشروع 1" src="https://via.placeholder.com/200x68.png?text=Project+1" height="68" align="left"> </a>
-<a href="https://github.com/abdullah-fahad/your-project-2" target="_blank"> <img alt="اسم المشروع 2" src="https://via.placeholder.com/200x68.png?text=Project+2" height="68" align="left"> </a>
-<a href="https://github.com/abdullah-fahad/your-project-3" target="_blank"> <img alt="اسم المشروع 3" src="https://via.placeholder.com/200x68.png?text=Project+3" height="68" align="left"> </a>
-<a href="https://github.com/abdullah-fahad/your-project-4" target="_blank"> <img alt="اسم المشروع 4" src="https://via.placeholder.com/200x68.png?text=Project+4" height="68" align="left"> </a>
-<a href="https://github.com/abdullah-fahad/your-project-5" target="_blank"> <img alt="اسم المشروع 5" src="https://via.placeholder.com/200x68.png?text=Project+5" height="68" align="left"> </a>
-<a href="https://github.com/abdullah-fahad/your-project-6" target="_blank"> <img alt="اسم المشروع 6" src="https://via.placeholder.com/200x68.png?text=Project+6" height="68" align="left"> </a>
+### 🛠️ My Projects
+<a href="https://github.com/abdullah-fahad/your-project-1" target="_blank"> <img alt="Project Name 1" src="https://via.placeholder.com/200x68.png?text=Project+1" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-2" target="_blank"> <img alt="Project Name 2" src="https://via.placeholder.com/200x68.png?text=Project+2" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-3" target="_blank"> <img alt="Project Name 3" src="https://via.placeholder.com/200x68.png?text=Project+3" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-4" target="_blank"> <img alt="Project Name 4" src="https://via.placeholder.com/200x68.png?text=Project+4" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-5" target="_blank"> <img alt="Project Name 5" src="https://via.placeholder.com/200x68.png?text=Project+5" height="68" align="left"> </a>
+<a href="https://github.com/abdullah-fahad/your-project-6" target="_blank"> <img alt="Project Name 6" src="https://via.placeholder.com/200x68.png?text=Project+6" height="68" align="left"> </a>
